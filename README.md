@@ -12,3 +12,16 @@ To document my progress in:
 - Machine learning fundamentals
 
 ## Structure
+
+project folder contains the assignment, my solution, and any notes.
+
+## Tools Used
+- Python / Jupyter Notebooks
+- Git / GitHub
+
+## Status
+🟢 Active — updated weekly
+
+## Contact
+Aminu Hashim
+aminuhashim22@gmail.com
